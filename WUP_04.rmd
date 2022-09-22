@@ -76,7 +76,7 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
-If the line crosses 0 there must be a difference LT highschool and lt high school and graduate students
+If the line crosses 0 there must be a difference. LT high school and highschool are the only ones that are different.
 
 # Discussion and Conclusion
 
