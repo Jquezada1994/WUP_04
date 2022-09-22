@@ -83,6 +83,6 @@ If the line crosses 0 there must be a difference. LT high school and highschool 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 Is there a difference between the average score on the WORDSUM test and level of schooling DEGREE?
-Yes there is we found there is a difference.Highscool and LT highschool is lower than graduates.We reject the $H_0$ becuase the p value is lower than 0.05. 
+Yes there is we found there is a difference.High school and LT high school is lower than graduates.We reject the $H_0$ because the p value is 0.000236 lower than 0.05.
 
 
