@@ -11,6 +11,7 @@ output:
 require(knitr)
 require(tidyverse)
 require(tigerstats)
+data = read.csv('GSScsv.csv')
 
 ```
 
@@ -25,10 +26,12 @@ $H_a$ There is a significant difference in average score on the WORDSUM test bet
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+We try to predict WORDSUM based on degree.WORDSUM is numerical and Degree is categorical therefore we will use the Nemerical cat graph.
 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
+
 
 ## Descriptive Results
 
