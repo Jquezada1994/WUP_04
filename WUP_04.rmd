@@ -37,7 +37,15 @@ We try to predict WORDSUM based on degree.WORDSUM is numerical and Degree is cat
 
 ### Graphical Descriptive Results
 
+
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+boxplot(WORDSUM~DEGREE,data=data)
+```
+
+
+Less than high school is the lowest and highschool is the second lowest.Graduate is the highest and bachelors is the second highest.So based on this plot there is a difference based on degree.
+
 
 ### Numerical Descriptive Results
 
